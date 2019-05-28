@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ModernProfileSecond</string>
+    <string name="name">MR. ANONYMOUS</string>
+    <string name="location">Jakarta, Indonesia</string>
+    <string name="work">Back End Developer</string>
+    <string name="web">warokdroid.com</string>
+    <string name="following">Following</string>
+    <string name="bio">BIO :</string>
+    <string name="bio_desc">Lorem ipsum dolor sit amet, pro in luptatum instructior, ex affert impetus fabulas sea. Est cu aeterno corrumpit, sit at mucius graecis, at putant iudicabit sea. Eam et integre alienum, pertinacia incorrupte ex quo.</string>
+    <string name="clients">CLIENTS :</string>
+    <string name="send_message">Send Message</string>
+</resources>
